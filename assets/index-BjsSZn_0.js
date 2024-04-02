@@ -967,7 +967,7 @@ height: 100vh;
   background-repeat: no-repeat;
   width: 100%;
   background-size: cover;
-  background-position: 53% 20%;
+  background-position: 50% 20%;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
